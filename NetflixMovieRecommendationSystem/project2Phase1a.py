@@ -212,6 +212,7 @@ def partitionRatings(rawRatings, testPercent):
 # root mean square calculation for predicted and actual ratings
 #########################################
 
+
 def rmse(actualRatings, predictedRatings):
 	# print len(actualRatings), len(predictedRatings)
 	# print predictedRatings[1]
@@ -227,52 +228,4 @@ def rmse(actualRatings, predictedRatings):
 		idx +=1
 
 	return math.sqrt(ratingDiffTotal/float(len(predictedRatings)))
-
-
-	
-	
-
-
-userList = createUserList()
-
-movieList = createMovieList()
-
-numUsers = len(userList)
-numItems = len(movieList)
-
-rawRatings = readRatings()
-
-[userRatings,movieRatings] =  createRatingsDataStructure(numUsers, numItems, rawRatings)
-
-
-[trainingSet,testSet] =  partitionRatings(rawRatings,1)
-
-# predictedRatings = [ meanRatingPrediction(x[0], x[1], userRatings, movieRatings) for x in testSet ]
-# actualRatings = [ meanRatingPrediction(x[0],x[1], userRatings, movieRatings) for x in trainingSet ]
-
-
-
-#random prediction rmse
-
-randomRatings = [randomPrediction(x[0],x[1] ) for x in testSet]
-testSetRatings = [x[2] for x in testSet]
-# print testSetRatings
-print "Random prediction RMSE:", rmse(testSetRatings,randomRatings)
-
-#USer Mean Rating Prediction
-predictedUserRatingsMean = [ meanUserRatingPrediction(x[0], x[1], userRatings) for x in testSet ]
-
-print "User Mean Rating prediction RMSE:", rmse(testSetRatings, predictedUserRatingsMean)
-
-
-#Movie Mean Rating prediction RMSE
-
-predictedMovieRatingsMean = [ meanMovieRatingPrediction(x[0], x[1], movieRatings) for x in testSet ]
-print "Movie Mean Rating prediction RMSE:", rmse(testSetRatings,predictedMovieRatingsMean)
-
-
-print "User-Movie Mean Rating prediction RMSE:", rmse(predictedUserRatingsMean, predictedMovieRatingsMean)
-
-
-
 

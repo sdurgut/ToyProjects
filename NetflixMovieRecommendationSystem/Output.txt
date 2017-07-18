@@ -1,0 +1,10 @@
+Random prediction RMSE: 1.88511272872
+Simple User-based prediction RMSE: 1.03929235048
+Simple Movie-based prediction RMSE: 1.02356038197
+Simple prediction RMSE: 0.979502865016
+CFRatingPrediction for 0 Friends: 1.0310994775
+CFMMRatingPrediction for 0 Friends: 0.819586400587
+CFRatingPrediction for 25 Friends: 1.02576697909
+CFMMRatingPrediction for 25 Friends: 0.819586400587
+CFRatingPrediction for 300 Friends: 0.755097559965
+CFMMRatingPrediction for 300 Friends: 0.819586400587

@@ -38,41 +38,6 @@
 2.0
 >>> [round(kNearestNeighbors(u, trUserRatings, numUsers)[numUsers-2][1], 2) for u in range(1, 21)]
 [-1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -0.63, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0]
->>> testingSet[:5]
-[(863, 1431, 4), (761, 1287, 1), (863, 322, 1), (828, 694, 2), (889, 523, 4)]
->>> friends = kNearestNeighbors(863, trUserRatings, 76)
->>> round(CFRatingPrediction(863, 1431, trUserRatings, friends), 3)
-3.213
->>> friends = kNearestNeighbors(863, trUserRatings, numUsers)
->>> round(CFRatingPrediction(863, 1431, trUserRatings, friends), 3)
-3.248
->>> friends = kNearestNeighbors(863, trUserRatings, 76)
->>> round(CFMMRatingPrediction(863, 1431, trUserRatings, trMovieRatings, friends), 3)
-3.107
->>> friends = kNearestNeighbors(863, trUserRatings, numUsers)
->>> round(CFMMRatingPrediction(863, 1431, trUserRatings, trMovieRatings, friends), 3)
-3.124
->>> friends = kNearestNeighbors(761, trUserRatings, numUsers)
->>> round(CFRatingPrediction(761, 1287, trUserRatings, friends), 3)
-1.638
->>> round(CFMMRatingPrediction(761, 1287, trUserRatings, trMovieRatings, friends), 3)
-1.819
->>> friends = []
->>> round(CFRatingPrediction(761, 1287, trUserRatings, friends), 3)
-2.977
->>> round(CFMMRatingPrediction(761, 1287, trUserRatings, trMovieRatings, friends), 3)
-2.489
->>> friends = kNearestNeighbors(889, trUserRatings, numUsers)
->>> [i for i in range(len(friends)-1) if friends[i][1] - friends[i+1][1] > 0.01] 
-[25, 28, 30, 31, 35, 37, 42, 51, 59, 97, 776, 831, 840, 844, 850, 851, 858, 862, 863, 864, 865, 874, 878, 879, 880, 882, 883, 887, 890, 891, 892, 893, 901, 905, 906, 908, 909]
->>> round(CFRatingPrediction(889, 523, trUserRatings, friends[:26]), 3)
-4.561
->>> round(CFMMRatingPrediction(889, 523, trUserRatings, trMovieRatings, friends[:26]), 3)
-4.272
->>> round(CFRatingPrediction(889, 523, trUserRatings, friends[:777]), 3)
-4.008
->>> round(CFMMRatingPrediction(889, 523, trUserRatings, trMovieRatings, friends[:777]), 3)
-3.995
 '''
 #-------------------------------------------------------
 from project2Phase2a import *
