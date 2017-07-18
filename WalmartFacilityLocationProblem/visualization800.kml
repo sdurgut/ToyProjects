@@ -1,0 +1,3719 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Style id="smallLine">
+<LineStyle
+><color>7f00007f</color
+><width>1</width
+></LineStyle
+><PolyStyle><color>7f00007f</color
+></PolyStyle
+></Style
+><Placemark>
+<name>Richmond, IN</name>
+<description>Richmond, IN</description>
+<Point>
+<coordinates>-84.89,39.83,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Ravenna OH</name>
+<description>Path fromRichmond IN to Ravenna OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -81.24,41.16,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Reading PA</name>
+<description>Path fromRichmond IN to Reading PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -75.93,40.33,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Rhinelander WI</name>
+<description>Path fromRichmond IN to Rhinelander WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -89.42,45.64,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Richmond IN</name>
+<description>Path fromRichmond IN to Richmond IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -84.89,39.83,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Richmond VA</name>
+<description>Path fromRichmond IN to Richmond VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -77.45,37.54,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Roanoke VA</name>
+<description>Path fromRichmond IN to Roanoke VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -79.94,37.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Rochester MN</name>
+<description>Path fromRichmond IN to Rochester MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -92.46,44.02,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Rochester NY</name>
+<description>Path fromRichmond IN to Rochester NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -77.61,43.16,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Rockford IL</name>
+<description>Path fromRichmond IN to Rockford IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -89.1,42.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Rocky Mount NC</name>
+<description>Path fromRichmond IN to Rocky Mount NC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -77.8,35.94,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Rutland VT</name>
+<description>Path fromRichmond IN to Rutland VT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -72.97,43.61,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Saginaw MI</name>
+<description>Path fromRichmond IN to Saginaw MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -83.94,43.43,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Saint Cloud MN</name>
+<description>Path fromRichmond IN to Saint Cloud MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -94.17,45.57,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Saint Joseph MI</name>
+<description>Path fromRichmond IN to Saint Joseph MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -86.48,42.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Saint Joseph MO</name>
+<description>Path fromRichmond IN to Saint Joseph MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -94.84,39.77,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Saint Louis MO</name>
+<description>Path fromRichmond IN to Saint Louis MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -90.19,38.62,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Saint Paul MN</name>
+<description>Path fromRichmond IN to Saint Paul MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -93.1,44.95,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Salina KS</name>
+<description>Path fromRichmond IN to Salina KS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -97.61,38.84,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Salisbury MD</name>
+<description>Path fromRichmond IN to Salisbury MD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -75.6,38.37,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Sandusky OH</name>
+<description>Path fromRichmond IN to Sandusky OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -82.71,41.45,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Sault Sainte Marie MI</name>
+<description>Path fromRichmond IN to Sault Sainte Marie MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -84.35,46.49,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Savannah GA</name>
+<description>Path fromRichmond IN to Savannah GA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -81.09,32.08,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Schenectady NY</name>
+<description>Path fromRichmond IN to Schenectady NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -73.95,42.82,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Scranton PA</name>
+<description>Path fromRichmond IN to Scranton PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -75.67,41.41,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Sedalia MO</name>
+<description>Path fromRichmond IN to Sedalia MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -93.23,38.71,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Selma AL</name>
+<description>Path fromRichmond IN to Selma AL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -87.02,32.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Sioux City IA</name>
+<description>Path fromRichmond IN to Sioux City IA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -96.39,42.49,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Sioux Falls SD</name>
+<description>Path fromRichmond IN to Sioux Falls SD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -96.73,43.54,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - South Bend IN</name>
+<description>Path fromRichmond IN to South Bend IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -86.25,41.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Springfield IL</name>
+<description>Path fromRichmond IN to Springfield IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -89.65,39.8,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Springfield MA</name>
+<description>Path fromRichmond IN to Springfield MA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -72.59,42.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Springfield MO</name>
+<description>Path fromRichmond IN to Springfield MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -93.29,37.22,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Springfield OH</name>
+<description>Path fromRichmond IN to Springfield OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -83.81,39.92,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Staunton VA</name>
+<description>Path fromRichmond IN to Staunton VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -79.07,38.15,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Steubenville OH</name>
+<description>Path fromRichmond IN to Steubenville OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -80.62,40.36,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Stevens Point WI</name>
+<description>Path fromRichmond IN to Stevens Point WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -89.57,44.52,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Stroudsburg PA</name>
+<description>Path fromRichmond IN to Stroudsburg PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -75.19,40.99,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Sumter SC</name>
+<description>Path fromRichmond IN to Sumter SC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -80.35,33.92,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Swainsboro GA</name>
+<description>Path fromRichmond IN to Swainsboro GA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -82.34,32.6,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Syracuse NY</name>
+<description>Path fromRichmond IN to Syracuse NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -76.15,43.05,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Tallahassee FL</name>
+<description>Path fromRichmond IN to Tallahassee FL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -84.28,30.45,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Terre Haute IN</name>
+<description>Path fromRichmond IN to Terre Haute IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -87.41,39.47,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Toledo OH</name>
+<description>Path fromRichmond IN to Toledo OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -83.54,41.65,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Topeka KS</name>
+<description>Path fromRichmond IN to Topeka KS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -95.67,39.05,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Toronto ON</name>
+<description>Path fromRichmond IN to Toronto ON</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -79.38,43.65,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Traverse City MI</name>
+<description>Path fromRichmond IN to Traverse City MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -85.63,44.76,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Trenton NJ</name>
+<description>Path fromRichmond IN to Trenton NJ</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -74.77,40.23,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Tulsa OK</name>
+<description>Path fromRichmond IN to Tulsa OK</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -95.91,36.16,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Tupelo MS</name>
+<description>Path fromRichmond IN to Tupelo MS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -88.71,34.26,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Tuscaloosa AL</name>
+<description>Path fromRichmond IN to Tuscaloosa AL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -87.57,33.21,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Uniontown PA</name>
+<description>Path fromRichmond IN to Uniontown PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -79.73,39.9,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Utica NY</name>
+<description>Path fromRichmond IN to Utica NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -75.23,43.11,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Valdosta GA</name>
+<description>Path fromRichmond IN to Valdosta GA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -83.28,30.83,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Vicksburg MS</name>
+<description>Path fromRichmond IN to Vicksburg MS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -90.88,32.35,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Vincennes IN</name>
+<description>Path fromRichmond IN to Vincennes IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -87.53,38.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Warren PA</name>
+<description>Path fromRichmond IN to Warren PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -79.14,41.85,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Washington DC</name>
+<description>Path fromRichmond IN to Washington DC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -77.03,38.89,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Waterbury CT</name>
+<description>Path fromRichmond IN to Waterbury CT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -73.05,41.55,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Waterloo IA</name>
+<description>Path fromRichmond IN to Waterloo IA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -92.34,42.5,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Watertown NY</name>
+<description>Path fromRichmond IN to Watertown NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -75.92,43.98,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Waukegan IL</name>
+<description>Path fromRichmond IN to Waukegan IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -87.83,42.36,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Wausau WI</name>
+<description>Path fromRichmond IN to Wausau WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -89.64,44.96,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Waycross GA</name>
+<description>Path fromRichmond IN to Waycross GA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -82.35,31.22,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Wheeling WV</name>
+<description>Path fromRichmond IN to Wheeling WV</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -80.72,40.07,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Wichita KS</name>
+<description>Path fromRichmond IN to Wichita KS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -97.34,37.69,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Williamson WV</name>
+<description>Path fromRichmond IN to Williamson WV</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -82.28,37.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Williamsport PA</name>
+<description>Path fromRichmond IN to Williamsport PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -77.0,41.25,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Wilmington DE</name>
+<description>Path fromRichmond IN to Wilmington DE</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -75.55,39.75,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Wilmington NC</name>
+<description>Path fromRichmond IN to Wilmington NC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -77.92,34.24,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Winchester VA</name>
+<description>Path fromRichmond IN to Winchester VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -78.16,39.19,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Winston-Salem NC</name>
+<description>Path fromRichmond IN to Winston-Salem NC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -80.25,36.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Wisconsin Dells WI</name>
+<description>Path fromRichmond IN to Wisconsin Dells WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -89.77,43.63,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Yankton SD</name>
+<description>Path fromRichmond IN to Yankton SD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -97.39,42.88,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Richmond IN - Youngstown OH</name>
+<description>Path fromRichmond IN to Youngstown OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-84.89,39.83,0 -80.65,41.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson, AZ</name>
+<description>Tucson, AZ</description>
+<Point>
+<coordinates>-110.97,32.22,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - Richfield UT</name>
+<description>Path fromTucson AZ to Richfield UT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -112.09,38.77,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - Roswell NM</name>
+<description>Path fromTucson AZ to Roswell NM</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -104.53,33.4,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - Salida CO</name>
+<description>Path fromTucson AZ to Salida CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -106.0,38.53,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - San Angelo TX</name>
+<description>Path fromTucson AZ to San Angelo TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -100.44,31.46,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - San Bernardino CA</name>
+<description>Path fromTucson AZ to San Bernardino CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -117.31,34.11,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - San Diego CA</name>
+<description>Path fromTucson AZ to San Diego CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -117.15,32.71,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - Santa Ana CA</name>
+<description>Path fromTucson AZ to Santa Ana CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -117.87,33.76,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - Santa Barbara CA</name>
+<description>Path fromTucson AZ to Santa Barbara CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -119.7,34.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - Santa Fe NM</name>
+<description>Path fromTucson AZ to Santa Fe NM</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -105.95,35.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - Trinidad CO</name>
+<description>Path fromTucson AZ to Trinidad CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -104.51,37.17,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Tucson AZ - Tucson AZ</name>
+<description>Path fromTucson AZ to Tucson AZ</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-110.97,32.22,0 -110.97,32.22,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin, Falls, ID</name>
+<description>Twin, Falls, ID</description>
+<Point>
+<coordinates>-114.47,42.56,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Red Bluff CA</name>
+<description>Path fromTwin Falls ID to Red Bluff CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -122.24,40.18,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Reno NV</name>
+<description>Path fromTwin Falls ID to Reno NV</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -119.81,39.52,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Richfield UT</name>
+<description>Path fromTwin Falls ID to Richfield UT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -112.09,38.77,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Rock Springs WY</name>
+<description>Path fromTwin Falls ID to Rock Springs WY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -109.23,41.59,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Sacramento CA</name>
+<description>Path fromTwin Falls ID to Sacramento CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -121.49,38.59,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Salem OR</name>
+<description>Path fromTwin Falls ID to Salem OR</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -123.03,44.94,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Salida CO</name>
+<description>Path fromTwin Falls ID to Salida CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -106.0,38.53,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Salinas CA</name>
+<description>Path fromTwin Falls ID to Salinas CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -121.65,36.67,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Salt Lake City UT</name>
+<description>Path fromTwin Falls ID to Salt Lake City UT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -111.88,40.76,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - San Bernardino CA</name>
+<description>Path fromTwin Falls ID to San Bernardino CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -117.31,34.11,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - San Francisco CA</name>
+<description>Path fromTwin Falls ID to San Francisco CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -122.42,37.78,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - San Jose CA</name>
+<description>Path fromTwin Falls ID to San Jose CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -121.88,37.34,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Santa Rosa CA</name>
+<description>Path fromTwin Falls ID to Santa Rosa CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -122.72,38.44,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Scottsbluff NE</name>
+<description>Path fromTwin Falls ID to Scottsbluff NE</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -103.66,41.87,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Seattle WA</name>
+<description>Path fromTwin Falls ID to Seattle WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -122.33,47.6,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Sheridan WY</name>
+<description>Path fromTwin Falls ID to Sheridan WY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -106.96,44.8,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Spokane WA</name>
+<description>Path fromTwin Falls ID to Spokane WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -117.41,47.67,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Sterling CO</name>
+<description>Path fromTwin Falls ID to Sterling CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -103.22,40.62,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Stockton CA</name>
+<description>Path fromTwin Falls ID to Stockton CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -121.29,37.96,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Tacoma WA</name>
+<description>Path fromTwin Falls ID to Tacoma WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -122.43,47.24,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Twin Falls ID</name>
+<description>Path fromTwin Falls ID to Twin Falls ID</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -114.47,42.56,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Walla Walla WA</name>
+<description>Path fromTwin Falls ID to Walla Walla WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -118.33,46.07,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Weed CA</name>
+<description>Path fromTwin Falls ID to Weed CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -122.39,41.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Wenatchee WA</name>
+<description>Path fromTwin Falls ID to Wenatchee WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -120.32,47.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Twin Falls ID - Yakima WA</name>
+<description>Path fromTwin Falls ID to Yakima WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-114.47,42.56,0 -120.51,46.6,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed, CA</name>
+<description>Weed, CA</description>
+<Point>
+<coordinates>-122.39,41.42,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Weed CA - Red Bluff CA</name>
+<description>Path fromWeed CA to Red Bluff CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -122.24,40.18,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Reno NV</name>
+<description>Path fromWeed CA to Reno NV</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -119.81,39.52,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Sacramento CA</name>
+<description>Path fromWeed CA to Sacramento CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -121.49,38.59,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Salem OR</name>
+<description>Path fromWeed CA to Salem OR</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -123.03,44.94,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Salinas CA</name>
+<description>Path fromWeed CA to Salinas CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -121.65,36.67,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - San Bernardino CA</name>
+<description>Path fromWeed CA to San Bernardino CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -117.31,34.11,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - San Diego CA</name>
+<description>Path fromWeed CA to San Diego CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -117.15,32.71,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - San Francisco CA</name>
+<description>Path fromWeed CA to San Francisco CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -122.42,37.78,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - San Jose CA</name>
+<description>Path fromWeed CA to San Jose CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -121.88,37.34,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Santa Ana CA</name>
+<description>Path fromWeed CA to Santa Ana CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -117.87,33.76,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Santa Barbara CA</name>
+<description>Path fromWeed CA to Santa Barbara CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -119.7,34.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Santa Rosa CA</name>
+<description>Path fromWeed CA to Santa Rosa CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -122.72,38.44,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Seattle WA</name>
+<description>Path fromWeed CA to Seattle WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -122.33,47.6,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Spokane WA</name>
+<description>Path fromWeed CA to Spokane WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -117.41,47.67,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Stockton CA</name>
+<description>Path fromWeed CA to Stockton CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -121.29,37.96,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Tacoma WA</name>
+<description>Path fromWeed CA to Tacoma WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -122.43,47.24,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Twin Falls ID</name>
+<description>Path fromWeed CA to Twin Falls ID</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -114.47,42.56,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Vancouver BC</name>
+<description>Path fromWeed CA to Vancouver BC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -123.12,49.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Walla Walla WA</name>
+<description>Path fromWeed CA to Walla Walla WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -118.33,46.07,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Weed CA</name>
+<description>Path fromWeed CA to Weed CA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -122.39,41.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Wenatchee WA</name>
+<description>Path fromWeed CA to Wenatchee WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -120.32,47.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Weed CA - Yakima WA</name>
+<description>Path fromWeed CA to Yakima WA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.39,41.42,0 -120.51,46.6,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita, KS</name>
+<description>Wichita, KS</description>
+<Point>
+<coordinates>-97.34,37.69,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Richmond IN</name>
+<description>Path fromWichita KS to Richmond IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -84.89,39.83,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Rochester MN</name>
+<description>Path fromWichita KS to Rochester MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -92.46,44.02,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Rockford IL</name>
+<description>Path fromWichita KS to Rockford IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -89.1,42.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Roswell NM</name>
+<description>Path fromWichita KS to Roswell NM</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -104.53,33.4,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Saint Cloud MN</name>
+<description>Path fromWichita KS to Saint Cloud MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -94.17,45.57,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Saint Joseph MI</name>
+<description>Path fromWichita KS to Saint Joseph MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -86.48,42.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Saint Joseph MO</name>
+<description>Path fromWichita KS to Saint Joseph MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -94.84,39.77,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Saint Louis MO</name>
+<description>Path fromWichita KS to Saint Louis MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -90.19,38.62,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Saint Paul MN</name>
+<description>Path fromWichita KS to Saint Paul MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -93.1,44.95,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Salida CO</name>
+<description>Path fromWichita KS to Salida CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -106.0,38.53,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Salina KS</name>
+<description>Path fromWichita KS to Salina KS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -97.61,38.84,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - San Angelo TX</name>
+<description>Path fromWichita KS to San Angelo TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -100.44,31.46,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - San Antonio TX</name>
+<description>Path fromWichita KS to San Antonio TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -98.5,29.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Santa Fe NM</name>
+<description>Path fromWichita KS to Santa Fe NM</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -105.95,35.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Scottsbluff NE</name>
+<description>Path fromWichita KS to Scottsbluff NE</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -103.66,41.87,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Sedalia MO</name>
+<description>Path fromWichita KS to Sedalia MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -93.23,38.71,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Seminole OK</name>
+<description>Path fromWichita KS to Seminole OK</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -96.68,35.23,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Sherman TX</name>
+<description>Path fromWichita KS to Sherman TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -96.61,33.64,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Shreveport LA</name>
+<description>Path fromWichita KS to Shreveport LA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -93.75,32.51,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Sioux City IA</name>
+<description>Path fromWichita KS to Sioux City IA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -96.39,42.49,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Sioux Falls SD</name>
+<description>Path fromWichita KS to Sioux Falls SD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -96.73,43.54,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - South Bend IN</name>
+<description>Path fromWichita KS to South Bend IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -86.25,41.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Springfield IL</name>
+<description>Path fromWichita KS to Springfield IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -89.65,39.8,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Springfield MO</name>
+<description>Path fromWichita KS to Springfield MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -93.29,37.22,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Sterling CO</name>
+<description>Path fromWichita KS to Sterling CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -103.22,40.62,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Terre Haute IN</name>
+<description>Path fromWichita KS to Terre Haute IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -87.41,39.47,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Texarkana TX</name>
+<description>Path fromWichita KS to Texarkana TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -94.05,33.43,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Topeka KS</name>
+<description>Path fromWichita KS to Topeka KS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -95.67,39.05,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Trinidad CO</name>
+<description>Path fromWichita KS to Trinidad CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -104.51,37.17,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Tulsa OK</name>
+<description>Path fromWichita KS to Tulsa OK</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -95.91,36.16,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Tupelo MS</name>
+<description>Path fromWichita KS to Tupelo MS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -88.71,34.26,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Tyler TX</name>
+<description>Path fromWichita KS to Tyler TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -95.3,32.35,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Valley City ND</name>
+<description>Path fromWichita KS to Valley City ND</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -98.01,46.92,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Vicksburg MS</name>
+<description>Path fromWichita KS to Vicksburg MS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -90.88,32.35,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Victoria TX</name>
+<description>Path fromWichita KS to Victoria TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -97.01,28.81,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Vincennes IN</name>
+<description>Path fromWichita KS to Vincennes IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -87.53,38.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Waco TX</name>
+<description>Path fromWichita KS to Waco TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -97.14,31.55,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Waterloo IA</name>
+<description>Path fromWichita KS to Waterloo IA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -92.34,42.5,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Watertown SD</name>
+<description>Path fromWichita KS to Watertown SD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -97.11,44.9,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Waukegan IL</name>
+<description>Path fromWichita KS to Waukegan IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -87.83,42.36,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Wichita Falls TX</name>
+<description>Path fromWichita KS to Wichita Falls TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -98.49,33.9,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Wichita KS</name>
+<description>Path fromWichita KS to Wichita KS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -97.34,37.69,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Wisconsin Dells WI</name>
+<description>Path fromWichita KS to Wisconsin Dells WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -89.77,43.63,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Wichita KS - Yankton SD</name>
+<description>Path fromWichita KS to Yankton SD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.34,37.69,0 -97.39,42.88,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem, NC</name>
+<description>Winston-Salem, NC</description>
+<Point>
+<coordinates>-80.25,36.1,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Ravenna OH</name>
+<description>Path fromWinston-Salem NC to Ravenna OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -81.24,41.16,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Reading PA</name>
+<description>Path fromWinston-Salem NC to Reading PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -75.93,40.33,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Richmond IN</name>
+<description>Path fromWinston-Salem NC to Richmond IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -84.89,39.83,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Richmond VA</name>
+<description>Path fromWinston-Salem NC to Richmond VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -77.45,37.54,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Roanoke VA</name>
+<description>Path fromWinston-Salem NC to Roanoke VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -79.94,37.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Rochester NY</name>
+<description>Path fromWinston-Salem NC to Rochester NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -77.61,43.16,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Rocky Mount NC</name>
+<description>Path fromWinston-Salem NC to Rocky Mount NC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -77.8,35.94,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Rutland VT</name>
+<description>Path fromWinston-Salem NC to Rutland VT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -72.97,43.61,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Saginaw MI</name>
+<description>Path fromWinston-Salem NC to Saginaw MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -83.94,43.43,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Saint Augustine FL</name>
+<description>Path fromWinston-Salem NC to Saint Augustine FL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -81.32,29.89,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Saint Joseph MI</name>
+<description>Path fromWinston-Salem NC to Saint Joseph MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -86.48,42.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Saint Louis MO</name>
+<description>Path fromWinston-Salem NC to Saint Louis MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -90.19,38.62,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Salisbury MD</name>
+<description>Path fromWinston-Salem NC to Salisbury MD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -75.6,38.37,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Sandusky OH</name>
+<description>Path fromWinston-Salem NC to Sandusky OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -82.71,41.45,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Sarasota FL</name>
+<description>Path fromWinston-Salem NC to Sarasota FL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -82.53,27.34,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Savannah GA</name>
+<description>Path fromWinston-Salem NC to Savannah GA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -81.09,32.08,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Schenectady NY</name>
+<description>Path fromWinston-Salem NC to Schenectady NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -73.95,42.82,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Scranton PA</name>
+<description>Path fromWinston-Salem NC to Scranton PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -75.67,41.41,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Selma AL</name>
+<description>Path fromWinston-Salem NC to Selma AL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -87.02,32.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - South Bend IN</name>
+<description>Path fromWinston-Salem NC to South Bend IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -86.25,41.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Springfield IL</name>
+<description>Path fromWinston-Salem NC to Springfield IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -89.65,39.8,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Springfield MA</name>
+<description>Path fromWinston-Salem NC to Springfield MA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -72.59,42.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Springfield OH</name>
+<description>Path fromWinston-Salem NC to Springfield OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -83.81,39.92,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Staunton VA</name>
+<description>Path fromWinston-Salem NC to Staunton VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -79.07,38.15,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Steubenville OH</name>
+<description>Path fromWinston-Salem NC to Steubenville OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -80.62,40.36,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Stroudsburg PA</name>
+<description>Path fromWinston-Salem NC to Stroudsburg PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -75.19,40.99,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Sumter SC</name>
+<description>Path fromWinston-Salem NC to Sumter SC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -80.35,33.92,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Swainsboro GA</name>
+<description>Path fromWinston-Salem NC to Swainsboro GA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -82.34,32.6,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Syracuse NY</name>
+<description>Path fromWinston-Salem NC to Syracuse NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -76.15,43.05,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Tallahassee FL</name>
+<description>Path fromWinston-Salem NC to Tallahassee FL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -84.28,30.45,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Tampa FL</name>
+<description>Path fromWinston-Salem NC to Tampa FL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -82.45,27.95,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Terre Haute IN</name>
+<description>Path fromWinston-Salem NC to Terre Haute IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -87.41,39.47,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Toledo OH</name>
+<description>Path fromWinston-Salem NC to Toledo OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -83.54,41.65,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Toronto ON</name>
+<description>Path fromWinston-Salem NC to Toronto ON</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -79.38,43.65,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Trenton NJ</name>
+<description>Path fromWinston-Salem NC to Trenton NJ</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -74.77,40.23,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Tupelo MS</name>
+<description>Path fromWinston-Salem NC to Tupelo MS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -88.71,34.26,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Tuscaloosa AL</name>
+<description>Path fromWinston-Salem NC to Tuscaloosa AL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -87.57,33.21,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Uniontown PA</name>
+<description>Path fromWinston-Salem NC to Uniontown PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -79.73,39.9,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Utica NY</name>
+<description>Path fromWinston-Salem NC to Utica NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -75.23,43.11,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Valdosta GA</name>
+<description>Path fromWinston-Salem NC to Valdosta GA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -83.28,30.83,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Vincennes IN</name>
+<description>Path fromWinston-Salem NC to Vincennes IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -87.53,38.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Warren PA</name>
+<description>Path fromWinston-Salem NC to Warren PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -79.14,41.85,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Washington DC</name>
+<description>Path fromWinston-Salem NC to Washington DC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -77.03,38.89,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Waterbury CT</name>
+<description>Path fromWinston-Salem NC to Waterbury CT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -73.05,41.55,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Watertown NY</name>
+<description>Path fromWinston-Salem NC to Watertown NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -75.92,43.98,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Waukegan IL</name>
+<description>Path fromWinston-Salem NC to Waukegan IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -87.83,42.36,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Waycross GA</name>
+<description>Path fromWinston-Salem NC to Waycross GA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -82.35,31.22,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - West Palm Beach FL</name>
+<description>Path fromWinston-Salem NC to West Palm Beach FL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -80.05,26.72,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Wheeling WV</name>
+<description>Path fromWinston-Salem NC to Wheeling WV</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -80.72,40.07,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Williamson WV</name>
+<description>Path fromWinston-Salem NC to Williamson WV</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -82.28,37.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Williamsport PA</name>
+<description>Path fromWinston-Salem NC to Williamsport PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -77.0,41.25,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Wilmington DE</name>
+<description>Path fromWinston-Salem NC to Wilmington DE</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -75.55,39.75,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Wilmington NC</name>
+<description>Path fromWinston-Salem NC to Wilmington NC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -77.92,34.24,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Winchester VA</name>
+<description>Path fromWinston-Salem NC to Winchester VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -78.16,39.19,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Winston-Salem NC</name>
+<description>Path fromWinston-Salem NC to Winston-Salem NC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -80.25,36.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Worcester MA</name>
+<description>Path fromWinston-Salem NC to Worcester MA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -71.8,42.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Winston-Salem NC - Youngstown OH</name>
+<description>Path fromWinston-Salem NC to Youngstown OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.25,36.1,0 -80.65,41.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton, SD</name>
+<description>Yankton, SD</description>
+<Point>
+<coordinates>-97.39,42.88,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Regina SK</name>
+<description>Path fromYankton SD to Regina SK</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -104.65,50.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Rhinelander WI</name>
+<description>Path fromYankton SD to Rhinelander WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -89.42,45.64,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Richmond IN</name>
+<description>Path fromYankton SD to Richmond IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -84.89,39.83,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Rochester MN</name>
+<description>Path fromYankton SD to Rochester MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -92.46,44.02,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Rock Springs WY</name>
+<description>Path fromYankton SD to Rock Springs WY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -109.23,41.59,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Rockford IL</name>
+<description>Path fromYankton SD to Rockford IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -89.1,42.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Saint Cloud MN</name>
+<description>Path fromYankton SD to Saint Cloud MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -94.17,45.57,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Saint Joseph MI</name>
+<description>Path fromYankton SD to Saint Joseph MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -86.48,42.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Saint Joseph MO</name>
+<description>Path fromYankton SD to Saint Joseph MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -94.84,39.77,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Saint Louis MO</name>
+<description>Path fromYankton SD to Saint Louis MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -90.19,38.62,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Saint Paul MN</name>
+<description>Path fromYankton SD to Saint Paul MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -93.1,44.95,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Salida CO</name>
+<description>Path fromYankton SD to Salida CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -106.0,38.53,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Salina KS</name>
+<description>Path fromYankton SD to Salina KS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -97.61,38.84,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Scottsbluff NE</name>
+<description>Path fromYankton SD to Scottsbluff NE</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -103.66,41.87,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Sedalia MO</name>
+<description>Path fromYankton SD to Sedalia MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -93.23,38.71,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Seminole OK</name>
+<description>Path fromYankton SD to Seminole OK</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -96.68,35.23,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Sheridan WY</name>
+<description>Path fromYankton SD to Sheridan WY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -106.96,44.8,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Sherman TX</name>
+<description>Path fromYankton SD to Sherman TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -96.61,33.64,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Sioux City IA</name>
+<description>Path fromYankton SD to Sioux City IA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -96.39,42.49,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Sioux Falls SD</name>
+<description>Path fromYankton SD to Sioux Falls SD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -96.73,43.54,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - South Bend IN</name>
+<description>Path fromYankton SD to South Bend IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -86.25,41.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Springfield IL</name>
+<description>Path fromYankton SD to Springfield IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -89.65,39.8,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Springfield MO</name>
+<description>Path fromYankton SD to Springfield MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -93.29,37.22,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Sterling CO</name>
+<description>Path fromYankton SD to Sterling CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -103.22,40.62,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Stevens Point WI</name>
+<description>Path fromYankton SD to Stevens Point WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -89.57,44.52,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Terre Haute IN</name>
+<description>Path fromYankton SD to Terre Haute IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -87.41,39.47,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Topeka KS</name>
+<description>Path fromYankton SD to Topeka KS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -95.67,39.05,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Trinidad CO</name>
+<description>Path fromYankton SD to Trinidad CO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -104.51,37.17,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Tulsa OK</name>
+<description>Path fromYankton SD to Tulsa OK</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -95.91,36.16,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Valley City ND</name>
+<description>Path fromYankton SD to Valley City ND</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -98.01,46.92,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Vincennes IN</name>
+<description>Path fromYankton SD to Vincennes IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -87.53,38.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Waterloo IA</name>
+<description>Path fromYankton SD to Waterloo IA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -92.34,42.5,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Watertown SD</name>
+<description>Path fromYankton SD to Watertown SD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -97.11,44.9,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Waukegan IL</name>
+<description>Path fromYankton SD to Waukegan IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -87.83,42.36,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Wausau WI</name>
+<description>Path fromYankton SD to Wausau WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -89.64,44.96,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Wichita Falls TX</name>
+<description>Path fromYankton SD to Wichita Falls TX</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -98.49,33.9,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Wichita KS</name>
+<description>Path fromYankton SD to Wichita KS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -97.34,37.69,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Williston ND</name>
+<description>Path fromYankton SD to Williston ND</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -103.62,48.15,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Winnipeg MB</name>
+<description>Path fromYankton SD to Winnipeg MB</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -97.15,49.88,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Wisconsin Dells WI</name>
+<description>Path fromYankton SD to Wisconsin Dells WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -89.77,43.63,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Yankton SD - Yankton SD</name>
+<description>Path fromYankton SD to Yankton SD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-97.39,42.88,0 -97.39,42.88,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown, OH</name>
+<description>Youngstown, OH</description>
+<Point>
+<coordinates>-80.65,41.1,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Ravenna OH</name>
+<description>Path fromYoungstown OH to Ravenna OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -81.24,41.16,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Reading PA</name>
+<description>Path fromYoungstown OH to Reading PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -75.93,40.33,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Rhinelander WI</name>
+<description>Path fromYoungstown OH to Rhinelander WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -89.42,45.64,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Richmond IN</name>
+<description>Path fromYoungstown OH to Richmond IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -84.89,39.83,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Richmond VA</name>
+<description>Path fromYoungstown OH to Richmond VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -77.45,37.54,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Roanoke VA</name>
+<description>Path fromYoungstown OH to Roanoke VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -79.94,37.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Rochester MN</name>
+<description>Path fromYoungstown OH to Rochester MN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -92.46,44.02,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Rochester NY</name>
+<description>Path fromYoungstown OH to Rochester NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -77.61,43.16,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Rockford IL</name>
+<description>Path fromYoungstown OH to Rockford IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -89.1,42.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Rocky Mount NC</name>
+<description>Path fromYoungstown OH to Rocky Mount NC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -77.8,35.94,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Rutland VT</name>
+<description>Path fromYoungstown OH to Rutland VT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -72.97,43.61,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Saginaw MI</name>
+<description>Path fromYoungstown OH to Saginaw MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -83.94,43.43,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Saint Johnsbury VT</name>
+<description>Path fromYoungstown OH to Saint Johnsbury VT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -72.02,44.42,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Saint Joseph MI</name>
+<description>Path fromYoungstown OH to Saint Joseph MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -86.48,42.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Saint Louis MO</name>
+<description>Path fromYoungstown OH to Saint Louis MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -90.19,38.62,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Salisbury MD</name>
+<description>Path fromYoungstown OH to Salisbury MD</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -75.6,38.37,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Sandusky OH</name>
+<description>Path fromYoungstown OH to Sandusky OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -82.71,41.45,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Sault Sainte Marie MI</name>
+<description>Path fromYoungstown OH to Sault Sainte Marie MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -84.35,46.49,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Schenectady NY</name>
+<description>Path fromYoungstown OH to Schenectady NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -73.95,42.82,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Scranton PA</name>
+<description>Path fromYoungstown OH to Scranton PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -75.67,41.41,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Sedalia MO</name>
+<description>Path fromYoungstown OH to Sedalia MO</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -93.23,38.71,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - South Bend IN</name>
+<description>Path fromYoungstown OH to South Bend IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -86.25,41.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Springfield IL</name>
+<description>Path fromYoungstown OH to Springfield IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -89.65,39.8,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Springfield MA</name>
+<description>Path fromYoungstown OH to Springfield MA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -72.59,42.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Springfield OH</name>
+<description>Path fromYoungstown OH to Springfield OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -83.81,39.92,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Staunton VA</name>
+<description>Path fromYoungstown OH to Staunton VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -79.07,38.15,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Steubenville OH</name>
+<description>Path fromYoungstown OH to Steubenville OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -80.62,40.36,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Stevens Point WI</name>
+<description>Path fromYoungstown OH to Stevens Point WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -89.57,44.52,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Stroudsburg PA</name>
+<description>Path fromYoungstown OH to Stroudsburg PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -75.19,40.99,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Sumter SC</name>
+<description>Path fromYoungstown OH to Sumter SC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -80.35,33.92,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Swainsboro GA</name>
+<description>Path fromYoungstown OH to Swainsboro GA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -82.34,32.6,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Syracuse NY</name>
+<description>Path fromYoungstown OH to Syracuse NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -76.15,43.05,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Terre Haute IN</name>
+<description>Path fromYoungstown OH to Terre Haute IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -87.41,39.47,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Toledo OH</name>
+<description>Path fromYoungstown OH to Toledo OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -83.54,41.65,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Toronto ON</name>
+<description>Path fromYoungstown OH to Toronto ON</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -79.38,43.65,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Traverse City MI</name>
+<description>Path fromYoungstown OH to Traverse City MI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -85.63,44.76,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Trenton NJ</name>
+<description>Path fromYoungstown OH to Trenton NJ</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -74.77,40.23,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Tupelo MS</name>
+<description>Path fromYoungstown OH to Tupelo MS</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -88.71,34.26,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Uniontown PA</name>
+<description>Path fromYoungstown OH to Uniontown PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -79.73,39.9,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Utica NY</name>
+<description>Path fromYoungstown OH to Utica NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -75.23,43.11,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Vincennes IN</name>
+<description>Path fromYoungstown OH to Vincennes IN</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -87.53,38.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Warren PA</name>
+<description>Path fromYoungstown OH to Warren PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -79.14,41.85,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Washington DC</name>
+<description>Path fromYoungstown OH to Washington DC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -77.03,38.89,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Waterbury CT</name>
+<description>Path fromYoungstown OH to Waterbury CT</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -73.05,41.55,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Waterloo IA</name>
+<description>Path fromYoungstown OH to Waterloo IA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -92.34,42.5,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Watertown NY</name>
+<description>Path fromYoungstown OH to Watertown NY</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -75.92,43.98,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Waukegan IL</name>
+<description>Path fromYoungstown OH to Waukegan IL</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -87.83,42.36,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Wausau WI</name>
+<description>Path fromYoungstown OH to Wausau WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -89.64,44.96,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Wheeling WV</name>
+<description>Path fromYoungstown OH to Wheeling WV</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -80.72,40.07,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Williamson WV</name>
+<description>Path fromYoungstown OH to Williamson WV</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -82.28,37.68,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Williamsport PA</name>
+<description>Path fromYoungstown OH to Williamsport PA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -77.0,41.25,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Wilmington DE</name>
+<description>Path fromYoungstown OH to Wilmington DE</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -75.55,39.75,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Wilmington NC</name>
+<description>Path fromYoungstown OH to Wilmington NC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -77.92,34.24,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Winchester VA</name>
+<description>Path fromYoungstown OH to Winchester VA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -78.16,39.19,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Winston-Salem NC</name>
+<description>Path fromYoungstown OH to Winston-Salem NC</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -80.25,36.1,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Wisconsin Dells WI</name>
+<description>Path fromYoungstown OH to Wisconsin Dells WI</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -89.77,43.63,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Worcester MA</name>
+<description>Path fromYoungstown OH to Worcester MA</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -71.8,42.27,0</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>Youngstown OH - Youngstown OH</name>
+<description>Path fromYoungstown OH to Youngstown OH</description>
+<styleUrl>#smallLine</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-80.65,41.1,0 -80.65,41.1,0</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
