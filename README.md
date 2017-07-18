@@ -1,0 +1,1 @@
+I completed these projects either in a class or for fun.
